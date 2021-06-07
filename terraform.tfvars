@@ -1,1 +1,1 @@
-terraform.local.tfvars
+terraform.remote.tfvars
